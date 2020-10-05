@@ -1,4 +1,4 @@
-#Mon Sep 21 13:52:28 ICT 2020
+#Tue Sep 22 13:14:39 ICT 2020
 base.0=E\:\\New folder\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
 path.1=classes.dex
 renamed.1=classes2.dex
